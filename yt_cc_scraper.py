@@ -8,7 +8,6 @@ def scrape(vid_id, cc):
     #WebVTT is a World-Wide-Web Consortium standard for displaying timed text
     #in connection with the HTML5 <track> element.
 
-
     #Build YouTube video URL. Compatible with Youtube-Short videos
     video_url = f"https://www.youtube.com/watch?v={vid_id}"
 
